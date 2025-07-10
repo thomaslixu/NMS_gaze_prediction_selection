@@ -25,6 +25,6 @@ Gaze Prediction: Computes a saliency map to score boxes based on predicted gaze.
 
 Weighted Filtering: Refines the bounding boxes based on both NMS and gaze scores.
 
-![Gaze weighted and NMS](outs/nms_gazew.png)
+![Gaze weighted and NMS](outs/nms_gaze.png)
 
 Output: A filtered scene graph with high-confidence and visually important elements.
